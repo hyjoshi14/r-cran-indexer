@@ -11,3 +11,6 @@ share/
 
 # Databases
 *.db
+
+# R Package files
+*.tar.gz
